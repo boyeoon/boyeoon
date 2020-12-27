@@ -1,9 +1,10 @@
 <h3 align='center'>Hi there 👋</h3>
 <br>
 <p align='center'>
-  <a href="https://github-readme-stats.vercel.app/api?username=BoYeonJang&show_icons=true&theme=radical"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BoYeonJang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
 </p>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <h3 align='center'>🔨 Stack 🔧</h3>
 <p align='center'>Techs that I've used at least once</p>
@@ -43,6 +44,11 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoYeonJang&count_bg=%237296CB&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
 </p>
+
+<!--
+GitHub 통계의 경우 아래 링크 확인
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+-->
 
 <!--
 **BoYeonJang/BoYeonJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
