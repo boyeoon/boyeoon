@@ -5,7 +5,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=BoYeonJang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
   </a>
 </p>
-<br>
 <h3 align='center'>🔨 Stack 🔧</h3>
 <p align='center'>Techs that I've used at least once</p>
 <p align='center'>
