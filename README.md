@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white"/>
 </p>
 <br>
-<br>
 <h3 align='center'>🍑 ME 🍑</h3>
 <p align='center'>
   <a href="https://velog.io/@colorful-stars" target="_blank">
