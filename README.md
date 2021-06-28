@@ -1,24 +1,17 @@
-# 🙏 Welcome To My GitHub!
+# ▎안녕하세요,<br>▎프론트엔드 개발자<br>▎장보연입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=BoYeonJang&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoYeonJang&layout=compact&theme=material-palenight)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight)
 
-
-# ▎Personal Info
-- Bo Yeon Jang
-- Daejin University
-- Electronics Engineering 13
-- uko010199@gmail.com
-
-# ▎Tech Stacks
+## ▎🛠 Tech Stacks
 - Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/React-61dafb?style=flat&logo=react&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=flat&logo=TailwindCSS&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vuetify-00C58E?style=flat&logo=Vuetify&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Nuxt.js-38B2AC?style=flat&logo=Nuxt.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span><br/>
 - Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
@@ -29,10 +22,10 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span><br/>
 
-# ▎Blog For Learning
+## ▎📚 Blog For Learning
 - ### https://velog.io/@colorful-stars
 
-# ▎Portfolio Website
+## ▎🧑‍💻 Portfolio Notion
 - ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375
 
 <!-- <h3 align='center'>Hi there 👋</h3>
