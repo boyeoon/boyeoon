@@ -20,6 +20,7 @@
 
 ## ▎📚 Blog For Learning
 - ### https://velog.io/@colorful-stars - 🔧fixing🔧
+- ### https://boyeonjang.github.io/
 
 ## ▎🧑‍💻 Portfolio Notion
 - ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375
