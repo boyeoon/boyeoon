@@ -19,11 +19,11 @@
 <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span>
 
 ## ▎📚 Blog For Learning
-- ### https://velog.io/@colorful-stars - 🔧fixing🔧
+<!-- - ### https://velog.io/@colorful-stars - 🔧fixing🔧-->
 - ### https://boyeonjang.github.io/
 
 ## ▎🧑‍💻 Portfolio Notion
-- ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375
+- ### https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae
 
 <!-- <h3 align='center'>Hi there 👋</h3>
 <br>
