@@ -21,7 +21,8 @@
 
 ## ▎📚 Blog For Learning
 <!-- - ### https://velog.io/@colorful-stars - 🔧fixing🔧-->
-- ### https://boyeonjang.github.io/
+<!-- - ### https://boyeonjang.github.io/ -->
+- ### https://medium.com/@hypeboy
 
 ## ▎🧑‍💻 Portfolio Notion
 - ### https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae
