@@ -18,10 +18,10 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span>
 
-## ▎📚 Blog For Learning
+<!-- ## ▎📚 Blog For Learning -->
 <!-- - ### https://velog.io/@colorful-stars - 🔧fixing🔧-->
 <!-- - ### https://boyeonjang.github.io/ -->
-- ### https://medium.com/@hypeboy
+<!-- - ### https://medium.com/@hypeboy -->
 
 ## ▎🧑‍💻 Portfolio Notion
 - ### https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae
