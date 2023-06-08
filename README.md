@@ -31,7 +31,7 @@
 <!-- - ### https://medium.com/@hypeboy -->
 
 ## ▎🧑‍💻 Portfolio Notion
-- ### https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae
+- ### [https://fine-quotation-3da.notion.site/e3d1966d2a604fc4b2536885a73f8bae](https://boyeonjang.notion.site/Hi-I-m-Boyeon-eca58422941b425aaa10ff2e5597e61b?pvs=4)
 
 <!-- <h3 align='center'>Hi there 👋</h3>
 <br>
