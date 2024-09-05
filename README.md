@@ -16,9 +16,9 @@
 <span><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/></span><br/>
 - Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></span><br/>
-- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/></span>
+<!-- - Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"/></span> -->
 
 <!-- flat 뱃지 -->
 <!-- <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span> -->
