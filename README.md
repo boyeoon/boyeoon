@@ -31,7 +31,8 @@
 <!-- - ### https://medium.com/@hypeboy -->
 
 ## ▎🧑‍💻 Portfolio Notion
-- ### [Boyeon Jang](https://boyeonjang.notion.site/Hi-I-m-Boyeon-eca58422941b425aaa10ff2e5597e61b?pvs=4)
+- ### [Boyeon Jang](https://boyeonjang.notion.site/121cc84195d2494c9009fb3ae72a4419?pvs=74)
+<!-- - ### [Boyeon Jang](https://boyeonjang.notion.site/Hi-I-m-Boyeon-eca58422941b425aaa10ff2e5597e61b?pvs=4) -->
 
 <!-- <h3 align='center'>Hi there 👋</h3>
 <br>
