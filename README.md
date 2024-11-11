@@ -15,6 +15,33 @@
 
 <br/>
 
+## Projects
+
+<table>
+  <tr>
+    <th scope="col">title</td>
+    <th scope="col">description</td>
+    <th scope="col">repo</td>
+  </tr>
+  <tr>
+    <td><a href="https://i-love-sudoku.vercel.app/" target="_blank">i-love-sudoku</a></td>
+    <td>A game that implements Sudoku for users of all skill levels.</td>
+    <td><a href="https://github.com/boyeoon/i-love-sudoku" target="_blank">repository</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://snap-frame.vercel.app/" target="_blank">snap-frame</a></td>
+    <td>A web application that allows users to take and download photos using their webcam.</td>
+    <td><a href="https://github.com/boyeoon/snap-frame" target="_blank">repository</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://all-pokemon-names.vercel.app/" target="_blank">all-pokemon-names</a></td>
+    <td>It's a game to guess the names of Pokémon from each region.</td>
+    <td><a href="https://github.com/boyeoon/all-pokemon-names" target="_blank">repository</a></td>
+  </tr>
+</table>
+
+<br/>
+
 ## Github Stats
 <table>
   <tr>
