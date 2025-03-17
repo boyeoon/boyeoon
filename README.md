@@ -38,10 +38,16 @@
     <td>It's a game to guess the names of Pokémon from each region.</td>
     <td><a href="https://github.com/boyeoon/all-pokemon-names" target="_blank">repository</a></td>
   </tr>
+  <tr>
+    <td><a href="https://jfestcal.vercel.app/" target="_blank">japan-festival-calendar</a></td>
+    <td>A website where you can see all Japanese festival schedules in one place.</td>
+    <td><a href="https://github.com/boyeoon/japan-festival-calendar" target="_blank">repository</a></td>
+  </tr>
 </table>
 
 <br/>
 
+<!--
 ## Github Stats
 <table>
   <tr>
@@ -53,8 +59,7 @@
     </td>
   </tr>
 </table>
-
-<br/>
+-->
 
 <!--
 **BoYeonJang/BoYeonJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
