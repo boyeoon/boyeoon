@@ -34,7 +34,7 @@
     <td><a href="https://github.com/boyeoon/snap-frame" target="_blank">repository</a></td>
   </tr>
   <tr>
-    <td><a href="https://all-pokemon-names.vercel.app/" target="_blank">all-pokemon-names</a></td>
+    <td><a href="https://allpokemonnames.vercel.app/" target="_blank">all-pokemon-names</a></td>
     <td>It's a game to guess the names of Pokémon from each region.</td>
     <td><a href="https://github.com/boyeoon/all-pokemon-names" target="_blank">repository</a></td>
   </tr>
