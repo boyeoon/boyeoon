@@ -1,4 +1,4 @@
-<h2> ▎Hello,<br>▎I'm Boyeon Jang</h2>
+<!-- <h2> ▎Hello,<br>▎I'm Boyeon Jang</h2>
 
 <br/>
 
@@ -74,4 +74,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
